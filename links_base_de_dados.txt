@@ -1,0 +1,11 @@
+ ”IMDB Dataset of 50K Movie Reviews”:(https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews);
+
+ ”News Articles Classification Dataset for NLP & ML”:(https://www.kaggle.com/datasets/banuprakashv/news-articles-classification-dataset-for-nlp-and-ml),
+
+ ”BBC Articles Dataset with Extra Features”:(https://www.kaggle.com/datasets/jacopoferretti/bbc-articles-dataset).
+ 
+ "SMS Spam Collection Dataset": (https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?select=spam.csv)
+ 
+ "SST2": (https://huggingface.co/datasets/stanfordnlp/sst2)
+ 
+ "YELP": (https://huggingface.co/datasets/Yelp/yelp_review_full)
